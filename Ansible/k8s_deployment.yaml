@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: navyadevopsaws25/ansible_cd:xyz
+        image: navyadevopsaws25/ansible_cd:1
         ports:
         - containerPort: 8080
 ---
